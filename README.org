@@ -1,0 +1,10 @@
+* cl-jschema
+
+Common Lisp implementation of JSON Schema.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/MauDagos/cl-jschema.git   |
+| commit  | 0000000                                            |
+| systems | cl-jschema                                         |
+|---------+----------------------------------------------------|
+
